@@ -1,6 +1,6 @@
-# LifeQi Identity Wallet
+# DIDx Personal Identity Wallet
 
-A Digital Identity Wallet powered by Hyperledger Aries
+The Multi-Network Digital Identity Wallet powered by Hyperledger Aries
 
 This reference implementation is built with Flutter.
 
