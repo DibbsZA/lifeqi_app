@@ -1,8 +1,10 @@
+**UNDER CONSTRUCTION**
+
 # DIDx Personal Identity Wallet
 
 The Multi-Network Digital Identity Wallet powered by Hyperledger Aries
 
-This reference implementation is built with Flutter.
+This project is intended to be a reference implementation that is built with Flutter.
 
 ## Introduction
 
